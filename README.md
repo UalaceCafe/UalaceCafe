@@ -1,19 +1,19 @@
-## Hey! 🦆
+## 🦆 Hey!
 
  ##
 
 ### Fancy knowing a "little" bit about me?
 
-* I am a Computer Engineering student from Brazil.
-* Currently, my favorite areas are Embedded Systems, Game Development, Visual Programming and Programming Language Development.
-* I created a programming language called Coffembly, which is inspired by Assembly (specifically, the x86 and MIPS architectures).
-* I love programming, video games and music.
+* 🏫 I am a Computer Engineering student from Brazil.
+* 💻 Currently, my favorite areas are Embedded Systems, Game Development, Visual Programming and Programming Language Development.
+* 🖥️ I created a programming language called Coffembly, which is inspired by Assembly (specifically, the x86 and MIPS architectures).
+* 🕹️ I love programming, video games and music.
 
 ### Useless trivia:
 
-* My favorite bands are The Beatles, the Red Hot Chili Peppers and Pink Floyd. Not in any particular order.
-* My favorite book authors are Tolkien and Stephen King.
-* I also play some musical instruments, like the guitar and the bass.
+* 🎶 My favorite bands are The Beatles, the Red Hot Chili Peppers and Pink Floyd. Not in any particular order.
+* 📖 My favorite book authors are Tolkien and Stephen King.
+* 🎸 I also play some musical instruments, like the guitar and the bass.
 
 ---
 
