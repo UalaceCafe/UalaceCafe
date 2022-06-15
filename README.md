@@ -1,7 +1,5 @@
 ## 🦆 Hey!
 
- ##
-
 ### Fancy knowing a "little" bit about me?
 
 * 🏫 I am a Computer Engineering student from Brazil.
