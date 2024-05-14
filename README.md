@@ -26,8 +26,8 @@
   <img align="center" alt="C" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Ruby" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
-  <img align="center" alt="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Jupyter" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-plain.svg">
+  <img align="center" alt="Arduino" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg">
 </div>
 
 ---
