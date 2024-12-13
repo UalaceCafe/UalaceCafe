@@ -84,13 +84,11 @@
 
 ## 🔎 Contact
 
-<p align="left">
-  You can contact me through my socials ⤵️
-</p>
+You can contact me through my socials ⤵️
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="ualace.cafe@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" href="ualace.cafe@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/ualace-henrique-santos-café-0b864a203/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" href="https://www.linkedin.com/in/ualace-henrique-santos-café-0b864a203/" alt="LinkedIn"/></a>
 </p>
