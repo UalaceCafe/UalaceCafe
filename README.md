@@ -14,14 +14,6 @@
 * 🌐 I'm a native Portuguese speaker, but I can also speak English fluently. I'm currently learning Italian, Latin and Ancient Greek.
 * 🎸 I also play some musical instruments, like the guitar and the bass.
 
-## ⭐ GitHub Stats
-
-<div>
-  <img height=160em src="https://github-readme-stats.vercel.app/api?username=UalaceCafe&show_icons=true&theme=radical"/>
-
-  <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=UalaceCafe&hide_progress=true&theme=radical"/>
-</div>
-
 ## 🚀 My skills
 
 **Languages**
@@ -81,6 +73,14 @@
 
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 ![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)
+
+## ⭐ GitHub Stats
+
+<div>
+  <img height=160em src="https://github-readme-stats.vercel.app/api?username=UalaceCafe&show_icons=true&theme=radical"/>
+
+  <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=UalaceCafe&hide_progress=true&theme=radical"/>
+</div>
 
 ## 🔎 Contact
 
